@@ -21,6 +21,11 @@
 <details>
     <summary>Recent GitHub Activity</summary>
     <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#17](https://github.com/Dyskal/DiscordRP/pull/17) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+2. 🎉 Merged PR [#19](https://github.com/Dyskal/TwitchPlayerOpener/pull/19) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+3. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+4. 🎉 Merged PR [#18](https://github.com/Dyskal/TwitchPlayerOpener/pull/18) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+5. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
     <!--END_SECTION:activity-->
 </details>
 
