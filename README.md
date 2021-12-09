@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dyskal
 
-### French student currently on first year of computer science
+### French student currently on second year of computer science
 
 ### Connect with me:
 
