@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#55](https://github.com/Dyskal/TwitchPlayerOpener/pull/55) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-2. 🎉 Merged PR [#42](https://github.com/Dyskal/DiscordRP/pull/42) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-3. 🎉 Merged PR [#54](https://github.com/Dyskal/TwitchPlayerOpener/pull/54) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-4. 🎉 Merged PR [#53](https://github.com/Dyskal/TwitchPlayerOpener/pull/53) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-5. 🎉 Merged PR [#41](https://github.com/Dyskal/DiscordRP/pull/41) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+1. 🎉 Merged PR [#56](https://github.com/Dyskal/TwitchPlayerOpener/pull/56) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+2. 🎉 Merged PR [#55](https://github.com/Dyskal/TwitchPlayerOpener/pull/55) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+3. 🎉 Merged PR [#42](https://github.com/Dyskal/DiscordRP/pull/42) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+4. 🎉 Merged PR [#54](https://github.com/Dyskal/TwitchPlayerOpener/pull/54) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+5. 🎉 Merged PR [#53](https://github.com/Dyskal/TwitchPlayerOpener/pull/53) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
