@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#61](https://github.com/Dyskal/TwitchPlayerOpener/pull/61) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-2. 🎉 Merged PR [#45](https://github.com/Dyskal/DiscordRP/pull/45) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-3. 🗣 Commented on [#250](https://github.com/materializecss/materialize/issues/250) in [materializecss/materialize](https://github.com/materializecss/materialize)
+1. 🎉 Merged PR [#62](https://github.com/Dyskal/TwitchPlayerOpener/pull/62) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+2. 🎉 Merged PR [#61](https://github.com/Dyskal/TwitchPlayerOpener/pull/61) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+3. 🎉 Merged PR [#45](https://github.com/Dyskal/DiscordRP/pull/45) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 4. 🗣 Commented on [#250](https://github.com/materializecss/materialize/issues/250) in [materializecss/materialize](https://github.com/materializecss/materialize)
-5. ❗️ Opened issue [#250](https://github.com/materializecss/materialize/issues/250) in [materializecss/materialize](https://github.com/materializecss/materialize)
+5. 🗣 Commented on [#250](https://github.com/materializecss/materialize/issues/250) in [materializecss/materialize](https://github.com/materializecss/materialize)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
