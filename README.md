@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#14](https://github.com/Dyskal/AutoQuery/pull/14) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
-2. 🎉 Merged PR [#67](https://github.com/Dyskal/TwitchPlayerOpener/pull/67) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-3. 🎉 Merged PR [#49](https://github.com/Dyskal/DiscordRP/pull/49) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-4. 🎉 Merged PR [#66](https://github.com/Dyskal/TwitchPlayerOpener/pull/66) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-5. 💪 Opened PR [#8](https://github.com/jaredhan418/vuetify-toast-snackbar-ng/pull/8) in [jaredhan418/vuetify-toast-snackbar-ng](https://github.com/jaredhan418/vuetify-toast-snackbar-ng)
+1. 🎉 Merged PR [#68](https://github.com/Dyskal/TwitchPlayerOpener/pull/68) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+2. 🎉 Merged PR [#50](https://github.com/Dyskal/DiscordRP/pull/50) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+3. 🎉 Merged PR [#14](https://github.com/Dyskal/AutoQuery/pull/14) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+4. 🎉 Merged PR [#67](https://github.com/Dyskal/TwitchPlayerOpener/pull/67) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+5. 🎉 Merged PR [#49](https://github.com/Dyskal/DiscordRP/pull/49) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
