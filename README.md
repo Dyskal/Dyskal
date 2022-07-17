@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#68](https://github.com/Dyskal/TwitchPlayerOpener/pull/68) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-2. 🎉 Merged PR [#50](https://github.com/Dyskal/DiscordRP/pull/50) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-3. 🎉 Merged PR [#14](https://github.com/Dyskal/AutoQuery/pull/14) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
-4. 🎉 Merged PR [#67](https://github.com/Dyskal/TwitchPlayerOpener/pull/67) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-5. 🎉 Merged PR [#49](https://github.com/Dyskal/DiscordRP/pull/49) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+1. ❗️ Opened issue [#2](https://github.com/sergeymakinen/vite-plugin-html-minimize/issues/2) in [sergeymakinen/vite-plugin-html-minimize](https://github.com/sergeymakinen/vite-plugin-html-minimize)
+2. 🎉 Merged PR [#68](https://github.com/Dyskal/TwitchPlayerOpener/pull/68) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+3. 🎉 Merged PR [#50](https://github.com/Dyskal/DiscordRP/pull/50) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+4. 🎉 Merged PR [#14](https://github.com/Dyskal/AutoQuery/pull/14) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+5. 🎉 Merged PR [#67](https://github.com/Dyskal/TwitchPlayerOpener/pull/67) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
