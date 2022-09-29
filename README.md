@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#16](https://github.com/Dyskal/AutoQuery/pull/16) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
-2. 🎉 Merged PR [#51](https://github.com/Dyskal/DiscordRP/pull/51) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-3. 🎉 Merged PR [#71](https://github.com/Dyskal/TwitchPlayerOpener/pull/71) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-4. 💪 Opened PR [#73](https://github.com/kernoeb/PlanningSup/pull/73) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-5. 🎉 Merged PR [#15](https://github.com/Dyskal/AutoQuery/pull/15) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+1. 💪 Opened PR [#81](https://github.com/kernoeb/PlanningSup/pull/81) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+2. 🎉 Merged PR [#16](https://github.com/Dyskal/AutoQuery/pull/16) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+3. 🎉 Merged PR [#51](https://github.com/Dyskal/DiscordRP/pull/51) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+4. 🎉 Merged PR [#71](https://github.com/Dyskal/TwitchPlayerOpener/pull/71) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+5. 💪 Opened PR [#73](https://github.com/kernoeb/PlanningSup/pull/73) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
