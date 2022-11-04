@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-![Discord](./images/discord.svg "Dyskal#9636")
+[![Discord](./images/discord.svg "Dyskal#9636")](https://discordapp.com/users/200586202997325824)
 [![Twitter](./images/twitter.svg "@dyskal")](https://twitter.com/dyskal)
 [![Instagram](./images/insta.svg "@dyskal")](https://instagram.com/dyskal)
 [![Steam](./images/steam.svg "dyskal")](https://steamcommunity.com/id/dyskal/)
