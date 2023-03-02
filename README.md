@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#87](https://github.com/Dyskal/TwitchPlayerOpener/issues/87) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-2. 🗣 Commented on [#58](https://github.com/Dyskal/DiscordRP/issues/58) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-3. 🗣 Commented on [#22](https://github.com/Dyskal/AutoQuery/issues/22) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
-4. ❌ Closed PR [#22](https://github.com/Dyskal/AutoQuery/pull/22) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
-5. 🎉 Merged PR [#85](https://github.com/Dyskal/TwitchPlayerOpener/pull/85) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+1. 💪 Opened PR [#96](https://github.com/kernoeb/PlanningSup/pull/96) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+2. 🗣 Commented on [#87](https://github.com/Dyskal/TwitchPlayerOpener/issues/87) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+3. 🗣 Commented on [#58](https://github.com/Dyskal/DiscordRP/issues/58) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+4. 🗣 Commented on [#22](https://github.com/Dyskal/AutoQuery/issues/22) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+5. ❌ Closed PR [#22](https://github.com/Dyskal/AutoQuery/pull/22) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
