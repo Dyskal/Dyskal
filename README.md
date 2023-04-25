@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#58674](https://github.com/tensorflow/tensorflow/issues/58674) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-2. 🎉 Merged PR [#23](https://github.com/Dyskal/AutoQuery/pull/23) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
-3. 🎉 Merged PR [#56](https://github.com/Dyskal/DiscordRP/pull/56) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
-4. 🎉 Merged PR [#88](https://github.com/Dyskal/TwitchPlayerOpener/pull/88) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
-5. 💪 Opened PR [#96](https://github.com/kernoeb/PlanningSup/pull/96) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+1. 🎉 Merged PR [#91](https://github.com/Dyskal/TwitchPlayerOpener/pull/91) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+2. 🗣 Commented on [#58674](https://github.com/tensorflow/tensorflow/issues/58674) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. 🎉 Merged PR [#23](https://github.com/Dyskal/AutoQuery/pull/23) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+4. 🎉 Merged PR [#56](https://github.com/Dyskal/DiscordRP/pull/56) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
+5. 🎉 Merged PR [#88](https://github.com/Dyskal/TwitchPlayerOpener/pull/88) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
