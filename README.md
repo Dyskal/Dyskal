@@ -24,8 +24,8 @@
 <!--START_SECTION:activity-->
 
 
-1. 💪 Opened PR [#97](https://github.com/kernoeb/PlanningSup/pull/97) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-2. 🎉 Merged PR [#90](https://github.com/Dyskal/TwitchPlayerOpener/pull/90) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
+1. 💪 Opened PR [#105](https://github.com/kernoeb/PlanningSup/pull/105) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+2. 💪 Opened PR [#97](https://github.com/kernoeb/PlanningSup/pull/97) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 3. 🎉 Merged PR [#91](https://github.com/Dyskal/TwitchPlayerOpener/pull/91) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 4. 🗣 Commented on [#58674](https://github.com/tensorflow/tensorflow/issues/58674#issuecomment-1515456223) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 5. 🎉 Merged PR [#23](https://github.com/Dyskal/AutoQuery/pull/23) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
