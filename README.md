@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#20](https://github.com/InsaLan/infra-insalan.fr/pull/20#issuecomment-1765286761) in [InsaLan/infra-insalan.fr](https://github.com/InsaLan/infra-insalan.fr)
-2. 🚀 Published release [v1.0](https://github.com/Dyskal/ShareFix/releases/tag/v1.0) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
-3. 💪 Opened PR [#105](https://github.com/kernoeb/PlanningSup/pull/105) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-4. 🗣 Commented on [#58674](https://github.com/tensorflow/tensorflow/issues/58674#issuecomment-1515456223) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-5. 🎉 Merged PR [#23](https://github.com/Dyskal/AutoQuery/pull/23) in [Dyskal/AutoQuery](https://github.com/Dyskal/AutoQuery)
+1. ❌ Reopened PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+2. ❌ Closed PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+3. 💪 Opened PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+4. 🗣 Commented on [#20](https://github.com/InsaLan/infra-insalan.fr/pull/20#issuecomment-1765286761) in [InsaLan/infra-insalan.fr](https://github.com/InsaLan/infra-insalan.fr)
+5. 🚀 Published release [v1.0](https://github.com/Dyskal/ShareFix/releases/tag/v1.0) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
