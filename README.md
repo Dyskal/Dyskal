@@ -24,11 +24,11 @@
 <!--START_SECTION:activity-->
 
 
-1. 🎉 Merged PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
-2. ❌ Reopened PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
-3. ❌ Closed PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
-4. 💪 Opened PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
-5. 🗣 Commented on [#20](https://github.com/InsaLan/infra-insalan.fr/pull/20#issuecomment-1765286761) in [InsaLan/infra-insalan.fr](https://github.com/InsaLan/infra-insalan.fr)
+1. 💪 Opened PR [#45](https://github.com/InsaLan/frontend-insalan.fr/pull/45) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+2. 🎉 Merged PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+3. ❌ Reopened PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+4. ❌ Closed PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+5. 💪 Opened PR [#29](https://github.com/InsaLan/frontend-insalan.fr/pull/29) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
