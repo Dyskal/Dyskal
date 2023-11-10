@@ -1,20 +1,18 @@
 # Hi 👋, I'm Dyskal
 
-### French student currently on third year of computer science
+### French student currently on fourth year of computer science
+
+Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan)
 
 ### Connect with me:
 
-[![Discord](./images/discord.svg "@dyskal")](https://discordapp.com/users/200586202997325824)
-[![Twitter](./images/twitter.svg "@dyskal")](https://twitter.com/dyskal)
-[![Instagram](./images/insta.svg "@dyskal")](https://instagram.com/dyskal)
+[![Discord](https://skillicons.dev/icons?i=discord "@dyskal")](https://discordapp.com/users/200586202997325824)
+[![Twitter](https://skillicons.dev/icons?i=twitter "@dyskal")](https://twitter.com/dyskal)
+[![Instagram](https://skillicons.dev/icons?i=instagram "@dyskal")](https://instagram.com/dyskal)
 [![Steam](./images/steam.svg "dyskal")](https://steamcommunity.com/id/dyskal/)
 
 ### Languages and Tools:
-
-[![Java](./images/java.svg)](https://www.oracle.com/java/)
-[![Python](./images/python.svg)](https://www.python.org/)
-![Linux](./images/linux.svg)
-[![Git](./images/git.svg)](https://git-scm.com/)
+![Languages and Tools](https://skillicons.dev/icons?i=java,kotlin,spring,js,ts,vue,idea,linux,git&perline=3)
 
 ---
 
