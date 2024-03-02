@@ -22,10 +22,10 @@ Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan
 <!--START_SECTION:activity-->
 
 
-1. 💪 Opened PR [#96](https://github.com/InsaLan/frontend-insalan.fr/pull/96) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
-2. 🗣 Commented on [#390](https://github.com/gruhn/vue-qrcode-reader/issues/390#issuecomment-1937257079) in [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader)
-3. 💪 Opened PR [#72](https://github.com/InsaLan/frontend-insalan.fr/pull/72) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
-4. 🗣 Commented on [#63](https://github.com/InsaLan/frontend-insalan.fr/issues/63#issuecomment-1830763079) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+1. 🗣 Commented on [#108](https://github.com/InsaLan/frontend-insalan.fr/pull/108#issuecomment-1973023512) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+2. 💪 Opened PR [#96](https://github.com/InsaLan/frontend-insalan.fr/pull/96) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
+3. 🗣 Commented on [#390](https://github.com/gruhn/vue-qrcode-reader/issues/390#issuecomment-1937257079) in [gruhn/vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader)
+4. 💪 Opened PR [#72](https://github.com/InsaLan/frontend-insalan.fr/pull/72) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
 5. 💪 Opened PR [#46](https://github.com/InsaLan/frontend-insalan.fr/pull/46) in [InsaLan/frontend-insalan.fr](https://github.com/InsaLan/frontend-insalan.fr)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
