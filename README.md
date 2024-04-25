@@ -22,11 +22,11 @@ Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan
 <!--START_SECTION:activity-->
 
 
-1. 🗣 Commented on [#293](https://github.com/eslint-types/eslint-define-config/issues/293#issuecomment-2069211821) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
-2. 🔒 Closed issue [#293](https://github.com/eslint-types/eslint-define-config/issues/293) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
-3. ❗ Opened issue [#293](https://github.com/eslint-types/eslint-define-config/issues/293) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
-4. 🗣 Commented on [#9783](https://github.com/oven-sh/bun/issues/9783#issuecomment-2033167730) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. ❗ Opened issue [#9783](https://github.com/oven-sh/bun/issues/9783) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🗣 Commented on [#1415](https://github.com/capricorn86/happy-dom/issues/1415#issuecomment-2075549782) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+2. ❗ Opened issue [#1415](https://github.com/capricorn86/happy-dom/issues/1415) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+3. 🗣 Commented on [#293](https://github.com/eslint-types/eslint-define-config/issues/293#issuecomment-2069211821) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
+4. 🔒 Closed issue [#293](https://github.com/eslint-types/eslint-define-config/issues/293) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
+5. ❗ Opened issue [#293](https://github.com/eslint-types/eslint-define-config/issues/293) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
