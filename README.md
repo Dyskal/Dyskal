@@ -22,8 +22,8 @@ Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan
 <!--START_SECTION:activity-->
 
 
-1. 💪 Opened PR [#13](https://github.com/pavankjadda/intellij-foldable-project-view/pull/13) in [pavankjadda/intellij-foldable-project-view](https://github.com/pavankjadda/intellij-foldable-project-view)
-2. ❗ Opened issue [#1415](https://github.com/capricorn86/happy-dom/issues/1415) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+1. 💪 Opened PR [#127](https://github.com/kernoeb/PlanningSup/pull/127) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+2. 💪 Opened PR [#13](https://github.com/pavankjadda/intellij-foldable-project-view/pull/13) in [pavankjadda/intellij-foldable-project-view](https://github.com/pavankjadda/intellij-foldable-project-view)
 3. 🗣 Commented on [#293](https://github.com/eslint-types/eslint-define-config/issues/293#issuecomment-2069211821) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
 4. 🔒 Closed issue [#293](https://github.com/eslint-types/eslint-define-config/issues/293) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
 5. ❗ Opened issue [#293](https://github.com/eslint-types/eslint-define-config/issues/293) in [eslint-types/eslint-define-config](https://github.com/eslint-types/eslint-define-config)
