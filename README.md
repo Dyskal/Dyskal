@@ -21,11 +21,11 @@ Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan
 <!--START_SECTION:activity-->
 
 
-1. 💪 Opened PR [#146](https://github.com/kernoeb/PlanningSup/pull/146) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-2. 💪 Opened PR [#142](https://github.com/kernoeb/PlanningSup/pull/142) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-3. 💪 Opened PR [#129](https://github.com/kernoeb/PlanningSup/pull/129) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-4. 💪 Opened PR [#127](https://github.com/kernoeb/PlanningSup/pull/127) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-5. 💪 Opened PR [#13](https://github.com/pavankjadda/intellij-foldable-project-view/pull/13) in [pavankjadda/intellij-foldable-project-view](https://github.com/pavankjadda/intellij-foldable-project-view)
+1. 🗣 Commented on [#148](https://github.com/kernoeb/PlanningSup/issues/148#issuecomment-2445335081) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+2. 🔒 Closed issue [#148](https://github.com/kernoeb/PlanningSup/issues/148) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+3. 💪 Opened PR [#146](https://github.com/kernoeb/PlanningSup/pull/146) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+4. 💪 Opened PR [#142](https://github.com/kernoeb/PlanningSup/pull/142) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+5. 💪 Opened PR [#129](https://github.com/kernoeb/PlanningSup/pull/129) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
