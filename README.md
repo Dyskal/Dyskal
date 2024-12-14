@@ -21,11 +21,11 @@ Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan
 <!--START_SECTION:activity-->
 
 
-1. ❗ Opened issue [#14](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/issues/14) in [CERBON-MODS/Bosses-of-Mass-Destruction-FORGE](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE)
-2. 🗣 Commented on [#148](https://github.com/kernoeb/PlanningSup/issues/148#issuecomment-2445335081) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-3. 🔒 Closed issue [#148](https://github.com/kernoeb/PlanningSup/issues/148) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-4. 💪 Opened PR [#146](https://github.com/kernoeb/PlanningSup/pull/146) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-5. 💪 Opened PR [#142](https://github.com/kernoeb/PlanningSup/pull/142) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+1. ❗ Opened issue [#99](https://github.com/graalvm/container/issues/99) in [graalvm/container](https://github.com/graalvm/container)
+2. ❗ Opened issue [#14](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/issues/14) in [CERBON-MODS/Bosses-of-Mass-Destruction-FORGE](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE)
+3. 🗣 Commented on [#148](https://github.com/kernoeb/PlanningSup/issues/148#issuecomment-2445335081) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+4. 🔒 Closed issue [#148](https://github.com/kernoeb/PlanningSup/issues/148) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+5. 💪 Opened PR [#146](https://github.com/kernoeb/PlanningSup/pull/146) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 5. 🎉 Merged PR [#16](https://github.com/Dyskal/DiscordRP/pull/16) in [Dyskal/DiscordRP](https://github.com/Dyskal/DiscordRP)
 6. 🎉 Merged PR [#17](https://github.com/Dyskal/TwitchPlayerOpener/pull/17) in [Dyskal/TwitchPlayerOpener](https://github.com/Dyskal/TwitchPlayerOpener)
 
