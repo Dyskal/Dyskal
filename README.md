@@ -21,7 +21,7 @@ Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan
 <!--START_SECTION:activity-->
 
 
-1. 🔒 Closed issue [#1415](https://github.com/capricorn86/happy-dom/issues/1415) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+1. 💪 Opened PR [#21062](https://github.com/vuetifyjs/vuetify/pull/21062) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
 2. ❗ Opened issue [#99](https://github.com/graalvm/container/issues/99) in [graalvm/container](https://github.com/graalvm/container)
 3. ❗ Opened issue [#14](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE/issues/14) in [CERBON-MODS/Bosses-of-Mass-Destruction-FORGE](https://github.com/CERBON-MODS/Bosses-of-Mass-Destruction-FORGE)
 4. 🗣 Commented on [#148](https://github.com/kernoeb/PlanningSup/issues/148#issuecomment-2445335081) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
