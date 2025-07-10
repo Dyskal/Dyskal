@@ -1,8 +1,6 @@
 # Hi 👋, I'm Dyskal
 
-### French student currently on fifth year of computer science
-
-Currently working as frontend developer at [@InsaLan](https://github.com/InsaLan)
+### French software engineer
 
 ### Connect with me:
 
