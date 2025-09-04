@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3242125447) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-2. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241543691) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-3. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241535437) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-4. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241532293) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-5. ❗ Opened issue [#3006](https://github.com/springdoc/springdoc-openapi/issues/3006) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
+1. 🗣 Commented on [#21781](https://github.com/vuetifyjs/vuetify/pull/21781#issuecomment-3250234236) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+2. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3242125447) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+3. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241543691) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+4. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241535437) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+5. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241532293) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 
 <!--END_SECTION:activity-->
 
