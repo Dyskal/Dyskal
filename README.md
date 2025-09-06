@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#21781](https://github.com/vuetifyjs/vuetify/pull/21781#issuecomment-3250234236) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-2. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3242125447) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-3. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241543691) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-4. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241535437) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-5. 🗣 Commented on [#165](https://github.com/kernoeb/PlanningSup/pull/165#issuecomment-3241532293) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+1. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258594393) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
+2. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258423588) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
+3. ❗ Opened issue [#22017](https://github.com/vuetifyjs/vuetify/issues/22017) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+4. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3257709862) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
+5. ❗ Opened issue [#1342](https://github.com/OpenFeign/querydsl/issues/1342) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
 
 <!--END_SECTION:activity-->
 
