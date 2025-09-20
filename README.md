@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.2](https://github.com/Dyskal/ShareFix/releases/tag/v1.2) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
-2. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3264109629) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
-3. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258594393) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
-4. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258423588) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
-5. ❗ Opened issue [#22017](https://github.com/vuetifyjs/vuetify/issues/22017) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+1. ❗ Opened issue [#22086](https://github.com/vuetifyjs/vuetify/issues/22086) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+2. 🚀 Published release [v1.2](https://github.com/Dyskal/ShareFix/releases/tag/v1.2) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
+3. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3264109629) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
+4. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258594393) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
+5. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258423588) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
 
 <!--END_SECTION:activity-->
 
