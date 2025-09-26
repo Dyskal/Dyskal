@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#17948](https://github.com/spring-projects/spring-security/issues/17948) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
-2. ❗ Opened issue [#22086](https://github.com/vuetifyjs/vuetify/issues/22086) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
-3. 🚀 Published release [v1.2](https://github.com/Dyskal/ShareFix/releases/tag/v1.2) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
-4. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3264109629) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
-5. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3258594393) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
+1. ❗ Opened issue [#366](https://github.com/pyrohost/pyrodactyl/issues/366) in [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl)
+2. ❗ Opened issue [#17948](https://github.com/spring-projects/spring-security/issues/17948) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+3. ❗ Opened issue [#22086](https://github.com/vuetifyjs/vuetify/issues/22086) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+4. 🚀 Published release [v1.2](https://github.com/Dyskal/ShareFix/releases/tag/v1.2) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
+5. 🗣 Commented on [#1342](https://github.com/OpenFeign/querydsl/issues/1342#issuecomment-3264109629) in [OpenFeign/querydsl](https://github.com/OpenFeign/querydsl)
 
 <!--END_SECTION:activity-->
 
