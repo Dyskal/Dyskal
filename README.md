@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.3](https://github.com/Dyskal/ShareFix/releases/tag/v1.3) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
-2. 🗣 Commented on [#37697](https://github.com/microsoft/playwright/issues/37697#issuecomment-3365367177) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. ❗ Opened issue [#37697](https://github.com/microsoft/playwright/issues/37697) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. ❗ Opened issue [#3099](https://github.com/springdoc/springdoc-openapi/issues/3099) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
-5. ❗ Opened issue [#366](https://github.com/pyrohost/pyrodactyl/issues/366) in [pyrohost/pyrodactyl](https://github.com/pyrohost/pyrodactyl)
+1. ❗ Opened issue [#4](https://github.com/Eckhardt-D/bun-plugin-vue/issues/4) in [Eckhardt-D/bun-plugin-vue](https://github.com/Eckhardt-D/bun-plugin-vue)
+2. 🚀 Published release [v1.3](https://github.com/Dyskal/ShareFix/releases/tag/v1.3) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
+3. 🗣 Commented on [#37697](https://github.com/microsoft/playwright/issues/37697#issuecomment-3365367177) in [microsoft/playwright](https://github.com/microsoft/playwright)
+4. ❗ Opened issue [#37697](https://github.com/microsoft/playwright/issues/37697) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. ❗ Opened issue [#3099](https://github.com/springdoc/springdoc-openapi/issues/3099) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
 
 <!--END_SECTION:activity-->
 
