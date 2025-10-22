@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#4](https://github.com/Eckhardt-D/bun-plugin-vue/issues/4) in [Eckhardt-D/bun-plugin-vue](https://github.com/Eckhardt-D/bun-plugin-vue)
-2. 🚀 Published release [v1.3](https://github.com/Dyskal/ShareFix/releases/tag/v1.3) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
-3. 🗣 Commented on [#37697](https://github.com/microsoft/playwright/issues/37697#issuecomment-3365367177) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. ❗ Opened issue [#37697](https://github.com/microsoft/playwright/issues/37697) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. ❗ Opened issue [#3099](https://github.com/springdoc/springdoc-openapi/issues/3099) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
+1. 🗣 Commented on [#305460](https://github.com/microsoft/winget-pkgs/issues/305460#issuecomment-3426288091) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🗣 Commented on [#305460](https://github.com/microsoft/winget-pkgs/issues/305460#issuecomment-3425727476) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+4.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5. ❗ Opened issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 <!--END_SECTION:activity-->
 
