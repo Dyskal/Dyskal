@@ -18,11 +18,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#305460](https://github.com/microsoft/winget-pkgs/issues/305460#issuecomment-3426288091) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🗣 Commented on [#305460](https://github.com/microsoft/winget-pkgs/issues/305460#issuecomment-3425727476) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-3.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+1. 💪 Opened PR [#1](undefined) in [nadia-tarashkevich/IJPL-216039](https://github.com/nadia-tarashkevich/IJPL-216039)
+2. 🗣 Commented on [#305460](https://github.com/microsoft/winget-pkgs/issues/305460#issuecomment-3426288091) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+3. 🗣 Commented on [#305460](https://github.com/microsoft/winget-pkgs/issues/305460#issuecomment-3425727476) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 4.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-5. ❗ Opened issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+5.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 <!--END_SECTION:activity-->
 
