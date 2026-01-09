@@ -18,8 +18,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14109](https://github.com/microsoft/playwright/issues/14109#issuecomment-3574873621) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. ❗ Opened issue [#3158](https://github.com/springdoc/springdoc-openapi/issues/3158) in [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi)
+1. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725321477) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+2. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725303409) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 3. ❌ Merged PR [#1](undefined) in [nadia-tarashkevich/IJPL-216039](https://github.com/nadia-tarashkevich/IJPL-216039)
 4. 💪 Opened PR [#1](undefined) in [nadia-tarashkevich/IJPL-216039](https://github.com/nadia-tarashkevich/IJPL-216039)
 5.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
