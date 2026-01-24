@@ -18,10 +18,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725321477) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-2. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725303409) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
-3. ❌ Merged PR [#1](undefined) in [nadia-tarashkevich/IJPL-216039](https://github.com/nadia-tarashkevich/IJPL-216039)
-4. 💪 Opened PR [#1](undefined) in [nadia-tarashkevich/IJPL-216039](https://github.com/nadia-tarashkevich/IJPL-216039)
+1. ℹ️ Labeled issue [#254](https://github.com/microsoft/winappCli/issues/254) in [microsoft/winappCli](https://github.com/microsoft/winappCli)
+2. ❗ Opened issue [#254](https://github.com/microsoft/winappCli/issues/254) in [microsoft/winappCli](https://github.com/microsoft/winappCli)
+3. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725321477) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+4. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725303409) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 5.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
 <!--END_SECTION:activity-->
