@@ -18,7 +18,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#254](https://github.com/microsoft/winappCli/issues/254) in [microsoft/winappCli](https://github.com/microsoft/winappCli)
+1. 💪 Opened PR [#6](https://github.com/Eckhardt-D/bun-plugin-vue/pull/6) in [Eckhardt-D/bun-plugin-vue](https://github.com/Eckhardt-D/bun-plugin-vue)
 2. ❗ Opened issue [#254](https://github.com/microsoft/winappCli/issues/254) in [microsoft/winappCli](https://github.com/microsoft/winappCli)
 3. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725321477) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 4. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725303409) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
