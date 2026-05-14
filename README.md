@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#6](https://github.com/Eckhardt-D/bun-plugin-vue/pull/6) in [Eckhardt-D/bun-plugin-vue](https://github.com/Eckhardt-D/bun-plugin-vue)
-2. ❗ Opened issue [#254](https://github.com/microsoft/winappCli/issues/254) in [microsoft/winappCli](https://github.com/microsoft/winappCli)
-3. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725321477) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
+1. 🗣 Commented on [#1](https://github.com/Dyskal/ShareFix/pull/1#issuecomment-4442440641) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
+2. 💪 Opened PR [#1](https://github.com/Dyskal/ShareFix/pull/1) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
+3. 🚀 Published release [v1.4](https://github.com/Dyskal/ShareFix/releases/tag/v1.4) in [Dyskal/ShareFix](https://github.com/Dyskal/ShareFix)
 4. 🗣 Commented on [#189](https://github.com/kernoeb/PlanningSup/pull/189#issuecomment-3725303409) in [kernoeb/PlanningSup](https://github.com/kernoeb/PlanningSup)
 5.  Labeled issue [#305460](https://github.com/microsoft/winget-pkgs/issues/305460) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
 
